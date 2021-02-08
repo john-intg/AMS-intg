@@ -1,12 +1,1 @@
-Ang hirap naman nito gamitin
-
-
-
-
-
-
-
-
-
-
-
+this is a test note! 
